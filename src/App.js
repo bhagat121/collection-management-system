@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/customers" element={<Customers />} />
+        <Route path="/" element={<Customers />} />
         <Route path="/bulk-upload" element={<BulkUpload />} />
       </Routes>
       <RealTimeNotifications />
