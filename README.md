@@ -86,3 +86,13 @@ Future Improvements
 • Improve UI responsiveness.  
 • Optimize bulk upload processing.  
 • Enhance error handling and logging.  
+
+# Sample SS
+
+![image](https://github.com/user-attachments/assets/e92d48c1-371d-4db8-a255-e111864a2117)
+
+![image](https://github.com/user-attachments/assets/dedcf2f5-98b9-45b0-8299-a8bac2d495a5)
+
+![image](https://github.com/user-attachments/assets/934a800d-0e90-4877-8154-f0cc50060455)
+
+
